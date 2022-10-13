@@ -1,0 +1,2 @@
+configurations.maybeCreate("defacult")
+artifacts.add("defacult",file('mimo_sdk'))

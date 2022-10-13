@@ -1,0 +1,2 @@
+configurations.maybeCreate("defacult")
+artifacts.add("defacult",file('mpg-pay-v2.2.8.aar'))

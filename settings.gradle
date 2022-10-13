@@ -16,4 +16,6 @@ rootProject.name = "brmtest"
 //include ':app'
 include ':xiaomi'
 include ':m233'
+include ':LocalRepo:Local_Repo_233'
+include ':LocalRepo:Local_Repo_xiaomi'
 
